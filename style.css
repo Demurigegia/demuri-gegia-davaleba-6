@@ -1,0 +1,71 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+header {
+	margin-left: 137px;
+}
+
+
+#first {
+	font-size: 11px;
+	width: 32px;
+	height: 13px;
+	margin-top: 21px;
+	margin-right: 35px;
+	display: inline-block;
+	color: #000000;
+}
+
+#second {
+	font-size: 11px;
+	width: 32px;
+	height: 13px;
+	margin-top: 21px;
+	margin-left: 35px;
+	margin-right: 60px;
+	display: inline-block;
+	color: #000000;
+}
+
+#third {
+	font-size: 11px;
+	width: 32px;
+	height: 13px;
+	margin-top: 21px;
+	margin-right: 35px;
+	margin-left: 35px;
+	display: inline-block;
+	color: #000000;
+}
+
+#four {
+	font-size: 11px;
+	width: 32px;
+	height: 13px;
+	margin-top: 21px;
+	margin-right: 29px;
+	margin-left: 35px;
+	display: inline-block;
+	color: #000000;
+}
+
+#photo1 {
+	width: 32px;
+	height: 32px;
+	margin-left: 29px;
+	display: inline-block;
+	vertical-align: middle;
+	border-radius: 15px;
+}
+
+h2 {
+	font-family: "Roboto", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 700;
+	font-style: normal;
+	font-variation-settings: "wdth" 100;
+	margin-left: 137px;
+	margin-top: 33px;
+}
